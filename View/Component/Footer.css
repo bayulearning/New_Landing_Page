@@ -1,0 +1,29 @@
+.endpage {
+  display: flex;
+  position: relative;
+
+  width: 100%;
+
+  margin-top: 100px;
+  justify-content: center;
+  gap: 80px;
+}
+
+.end-deskripsi {
+  margin: 30px;
+  width: 400px;
+}
+
+.image-end {
+  align-content: center;
+  width: 400px;
+  max-width: 400px;
+  height: 400px;
+  background-color: rgba(240, 248, 255, 0.616);
+}
+
+.end-deskripsi h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  color: rgba(240, 248, 255, 0.74);
+}
