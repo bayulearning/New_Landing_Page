@@ -27,3 +27,23 @@
   font-weight: normal;
   color: rgba(240, 248, 255, 0.74);
 }
+
+.kontak {
+  display: flex;
+  position: relative;
+
+  margin-top: 100px;
+  margin-left: 120px;
+  gap: 30px;
+}
+
+.img-kontak {
+  width: 30px;
+  height: 30px;
+  background-color: aliceblue;
+}
+
+footer p {
+  align-self: center;
+  text-align: center;
+}
