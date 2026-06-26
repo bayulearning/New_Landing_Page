@@ -1,8 +1,8 @@
-@import url("/View/Component/Hero.css");
-@import url("/View/Component/Footer.css");
-@import url("/View/Component/Card.css");
-@import url("/View/Component/Button.css");
-@import url("/View/Component/Body.css");
+@import url("/View/css/Hero.css");
+@import url("/View/css/Footer.css");
+@import url("/View/css/Card.css");
+@import url("/View/css/Button.css");
+@import url("/View/css/Body.css");
 
 :root {
   --primary-color: #2563eb;

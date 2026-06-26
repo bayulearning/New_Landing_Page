@@ -1,5 +1,5 @@
-@import url("/View/style.css");
-@import url("/View/Component/Card.css");
+@import url("/View/css/style.css");
+@import url("/View/css/Card.css");
 
 .hero {
   display: flex;

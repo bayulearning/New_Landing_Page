@@ -1,3 +1,14 @@
+.projects {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.projects h2 {
+  margin: 15px;
+  font-size: 30px;
+}
+
 .title-projek {
   display: flex;
   width: 100%;
@@ -10,7 +21,7 @@
 }
 
 .web {
-  background-color: rgba(240, 248, 255, 0.678);
+  background-color: rgba(240, 248, 255, 0.384);
 
   font-size: 30px;
   text-align: right;
@@ -21,6 +32,8 @@
   padding-left: 300px;
 
   border-radius: 0 30px 30px 0;
+
+  color: aliceblue;
 }
 
 .iot {
@@ -32,6 +45,7 @@
   padding-left: 30px;
   padding-right: 300px;
 
+  color: aliceblue;
   border-radius: 30px 0 0 30px;
-  background-color: rgba(240, 248, 255, 0.678);
+  background-color: rgba(240, 248, 255, 0.466);
 }
